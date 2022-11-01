@@ -161,6 +161,7 @@ h1 {
 .card {
     width: 255px;
     display: flex;
+    align-items:center;
     flex-direction: column;
     background: #FFFFFF;
     border-radius: 6px;
